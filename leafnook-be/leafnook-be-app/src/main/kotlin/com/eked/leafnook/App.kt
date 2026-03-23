@@ -1,4 +1,4 @@
-package com.eked.leafnook.com.eked.leafnook
+package com.eked.leafnook
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
